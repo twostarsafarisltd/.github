@@ -1,3 +1,4 @@
 # Github Profile Description Repo
 
-Organization description.
+Contains:
+- Organization description.
