@@ -11,6 +11,7 @@ This file contains details about Two Star Safaris Ltd.
 <details>
   <summary>🌈 Contribution guidelines - how can the community get involved?</summary>
   <br>
+  - Visit our <a href="https://github.com/twostarsafarisltd/.github/blob/main/Contributions.md" target="_blank">Contribution Guidelines</a> File.
 </details>
 
 <details>
