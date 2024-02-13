@@ -17,7 +17,8 @@ This file contains details about Two Star Safaris Ltd.
 <details>
   <summary>👩‍💻 Useful resources </summary>
   <br>
-  &mdash; <a href="https://twostarsafaris.com" target="_blank">Two Star Safaris Website</a>
+  &mdash; <a href="https://twostarsafaris.com" target="_blank">Two Star Safaris Website</a> <br>
+  &mdash; <a href="https://github.com/twostarsafarisltd/.github/blob/main/README.md" target="_blank">Community Documents</a> (Contrbutions & Code of Conduct)
 </details>
 
 <details>
